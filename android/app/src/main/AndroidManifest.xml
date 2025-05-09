@@ -13,7 +13,7 @@
       android:theme="@style/AppTheme">
       <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyB78JoXATzkFOamycEZECGBouqpwuAmH8Q"/>
+        android:value="API_KEY"/> //removed mine
 
       <activity
         android:name=".MainActivity"
